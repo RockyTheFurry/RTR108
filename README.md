@@ -1,1 +1,2 @@
-# RTR108
+# RTR108_2020
+Datormacība speckurs
