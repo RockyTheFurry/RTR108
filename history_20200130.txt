@@ -1,0 +1,82 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  COLOR B
+    4  color b
+    5  COLOR
+    6  git clone https://github.com/RockyTheFurry/RTR108
+    7  ls -l
+    8  RTR108
+    9  cd RTR108
+   10  ls -l
+   11  nano git.c
+   12  gcc git.c -o git_mow
+   13  ls -l
+   14  chmod 744 git.c
+   15  ls -l
+   16  /.git.c
+   17  ./git,c
+   18  nano README.md
+   19  ./git.c
+   20  ./git.c 20200130_1046
+   21  ./git.c 20200130_10_46
+   22  nano git.c
+   23  ./git-upload 20200130_10_46
+   24  ls -l
+   25  chmod 744 git-upload
+   26  ./git-upload 20200130_10_46
+   27  ls -l
+   28  ./git-upload 20200130_10_46
+   29  rm git.c
+   30  ls -l
+   31  history
+   32  nano git-upload 
+   33  ./git-upload 20200130_10_46
+   34  nano git-upload 
+   35  ./git-upload 20200130_10_46
+   36  ls -l
+   37  cat README.md
+   38  rm -rf RTR108
+   39  LS -L
+   40  ls -l
+   41  cd
+   42  la
+   43  ls -l
+   44  rm -rf RTR108
+   45  la -l
+   46  git clone https://github.com/RockyTheFurry/RTR108
+   47  la -l
+   48  cd RTR108
+   49  la -l
+   50  oython
+   51  python
+   52  iphyton
+   53  ipyton
+   54  IPython
+   55  nano python_tests.py
+   56  cat python_tests.py
+   57  python python_tests.py
+   58  nano python_tests.py
+   59  python
+   60  python2 python_tests.py
+   61  nano python_tests.py
+   62  python2 python_tests.py
+   63  python python_tests.py
+   64  ls -l
+   65  cp pyton_tests.py puton_tests_auto_exe.py
+   66  cp python_tests.py python_tests_auto_exe.py
+   67  cp python_tests.pypython_tests_auto_exe.py
+   68  nano pypython_tests_auto_exe.py
+   69  nano python_tests.py
+   70  nano pypython_tests_auto_exe.py
+   71  chmod 744 pypython_tests_auto_exe.py
+   72  pypython_tests_auto_exe.py
+   73  ./pypython_tests_auto_exe.py
+   74  idle &
+   75  ls -l
+   76  `
+   77  djsk
+   78  exit
+   79  ls -la
+   80  http://localhost:8000~
+   81  history
+   82  history >> history_20200130.txt
